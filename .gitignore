@@ -21,7 +21,6 @@ project/plugins/project/
 ######################
 # Eclipse
 ######################
-.cache-main 
 *.pydevproject
 .metadata
 .project
@@ -33,6 +32,7 @@ tmp/**/*
 *.swp
 *~.nib
 local.properties
+.cache-main 
 .classpath
 .settings/
 .loadpath
