@@ -1,9 +1,7 @@
+#java
 *.class
 *.log
-/bin/*
-
-#java
-
+bin/*
 
 # sbt specific
 .cache
