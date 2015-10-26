@@ -21,7 +21,7 @@ project/plugins/project/
 ######################
 # Eclipse
 ######################
- 
+.cache-main 
 *.pydevproject
 .metadata
 .project
