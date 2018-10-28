@@ -1,0 +1,179 @@
+{
+  "id": "97b9a2e3-115e-3d23-a798-c55f09c831e2",
+  "title": "Findings on Facebook in higher education: A comparison of college faculty and student uses and perceptions of social networking sites",
+  "type": "journal",
+  "authors": [
+    {
+      "first_name": "M. D.",
+      "last_name": "Roblyer"
+    },
+    {
+      "first_name": "Michelle",
+      "last_name": "McDaniel"
+    },
+    {
+      "first_name": "Marsena",
+      "last_name": "Webb"
+    },
+    {
+      "first_name": "James",
+      "last_name": "Herman"
+    },
+    {
+      "first_name": "James Vince",
+      "last_name": "Witty"
+    }
+  ],
+  "year": 2010,
+  "source": "Internet and Higher Education",
+  "identifiers": {
+    "doi": "10.1016/j.iheduc.2010.03.002",
+    "pmid": "51437809",
+    "issn": "10967516",
+    "scopus": "2-s2.0-77955228072",
+    "isbn": "1096-7516"
+  },
+  "keywords": [
+    "Email",
+    "Facebook",
+    "Instructional technologies",
+    "Online survey",
+    "Social networking",
+    "Technology adoption"
+  ],
+  "link": "http://www.mendeley.com/research/findings-facebook-higher-education-comparison-college-faculty-student-uses-perceptions-social-networ",
+  "reader_count": 471,
+  "reader_count_by_academic_status": {
+    "Professor": 9,
+    "Associate Professor": 13,
+    "Assistant Professor": 24,
+    "Post Doc": 11,
+    "Ph.D. Student": 115,
+    "Researcher (at an Academic Institution)": 20,
+    "Librarian": 14,
+    "Other Professional": 6,
+    "Student (Postgraduate)": 35,
+    "Student (Master)": 92,
+    "Student (Bachelor)": 39,
+    "Senior Lecturer": 7,
+    "Lecturer": 17,
+    "Doctoral Student": 33
+  },
+  "reader_count_by_subdiscipline": {
+    "Environmental Sciences": {"Miscellaneous": 1},
+    "Materials Science": {"Miscellaneous": 2},
+    "Physics": {"Miscellaneous": 1},
+    "Business Administration": {
+      "Management Information Systems": 2,
+      "Marketing": 4,
+      "Miscellaneous": 20
+    },
+    "Earth Sciences": {"Miscellaneous": 1},
+    "Psychology": {
+      "Miscellaneous": 17,
+      "Drug Abuse": 1,
+      "Experimental Psychology": 1,
+      "Cognition": 1,
+      "Social Psychology": 2
+    },
+    "Management Science / Operations Research": {
+      "Organizational Science": 1,
+      "Miscellaneous": 8,
+      "Decision Analysis": 1
+    },
+    "Sports and Recreation": {"Miscellaneous": 1},
+    "Biological Sciences": {
+      "Miscellaneous": 5,
+      "Veterinary Science": 1
+    },
+    "Design": {"Miscellaneous": 3},
+    "Mathematics": {"Probability": 1},
+    "Engineering": {"Miscellaneous": 6},
+    "Education": {
+      "Education Research": 4,
+      "Educational Administration": 2,
+      "Educational Change": 1,
+      "Educational Technology": 47,
+      "Language Education": 2,
+      "Mathematics Education": 1,
+      "Miscellaneous": 96,
+      "Counselling": 1,
+      "Science Education": 2,
+      "Teacher Education": 3
+    },
+    "Arts and Literature": {
+      "Architecture": 1,
+      "Miscellaneous": 4
+    },
+    "Economics": {"Miscellaneous": 4},
+    "Computer and Information Science": {
+      "Data Communication and Networks": 2,
+      "Human-Computer Interaction": 5,
+      "Artificial Intelligence": 1,
+      "Multimedia Systems and Applications": 1,
+      "Miscellaneous": 89,
+      "Information Science": 4,
+      "Electronic Commerce": 1,
+      "Software Engineering": 1,
+      "Operating Systems": 1,
+      "Computer Security": 1
+    },
+    "Law": {"Miscellaneous": 2},
+    "Medicine": {
+      "Nutrition and Metabolism": 1,
+      "Miscellaneous": 11
+    },
+    "Social Sciences": {
+      "Social Work": 1,
+      "Sociology": 2,
+      "Media Studies": 1,
+      "Methodology of Social Sciences": 1,
+      "Miscellaneous": 37,
+      "Communication": 4,
+      "Library and Information Science": 5
+    },
+    "Electrical and Electronic Engineering": {"Wireless and Mobile Communication": 1},
+    "Philosophy": {"Miscellaneous": 2},
+    "Humanities": {
+      "Languages and Literature": 1,
+      "Miscellaneous": 6
+    },
+    "Linguistics": {
+      "Applied Linguistics": 1,
+      "Miscellaneous": 5
+    }
+  },
+  "reader_count_by_country": {
+    "United States": 39,
+    "Portugal": 2,
+    "Cuba": 1,
+    "Iran": 1,
+    "Estonia": 1,
+    "Greece": 1,
+    "Spain": 4,
+    "Thailand": 1,
+    "Ireland": 1,
+    "Indonesia": 1,
+    "Israel": 1,
+    "India": 1,
+    "Malaysia": 2,
+    "Australia": 5,
+    "Peru": 1,
+    "South Africa": 3,
+    "Netherlands": 1,
+    "China": 1,
+    "Ghana": 1,
+    "Macau": 1,
+    "Guatemala": 1,
+    "Turkey": 2,
+    "United Kingdom": 13,
+    "Trinidad and Tobago": 1,
+    "Canada": 8,
+    "Mauritius": 1,
+    "Brazil": 4,
+    "Germany": 4,
+    "New Zealand": 1
+  },
+  "group_count": 52,
+  "abstract": "Social Networking Sites (SNSs) such as Facebook are one of the latest examples of communications technologies that have been widely-adopted by students and, consequently, have the potential to become a valuable resource to support their educational communications and collaborations with faculty. However, faculty members have a track record of prohibiting classroom uses of technologies that are frequently used by students. To determine how likely higher education faculty are to use Facebook for either personal or educational purposes, higher education faculty (n = 62) and students (n = 120) at a mid-sized southern university were surveyed on their use of Facebook and email technologies. A comparison of faculty and student responses indicate that students are much more likely than faculty to use Facebook and are significantly more open to the possibility of using Facebook and similar technologies to support classroom work. Faculty members are more likely to use more \"traditional\" technologies such as email. ?? 2010 Elsevier Inc. All rights reserved."
+}
