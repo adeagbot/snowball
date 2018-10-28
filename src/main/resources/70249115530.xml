@@ -1,0 +1,839 @@
+<xoe:enhanced-document xsi:schemaLocation="http://www.elsevier.com/xml/xoe/dtd http://schema.elsevier.com/dtds/document/syndication/abstracts/syndication-xocs-ani512.xsd" xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:ce="http://www.elsevier.com/xml/ani/common" xmlns:ait="http://www.elsevier.com/xml/ani/ait" xmlns:cto="http://www.elsevier.com/xml/cto/dtd"><xoe:enhancements><xoe:document-id>2-s2.0-70249115530</xoe:document-id><xoe:load-unit>swd_uC43700367012.dat</xoe:load-unit><xoe:trans-id>2015-04-17T23:08:43.000043+01:00</xoe:trans-id><xoe:syndication-timestamp>2015-04-19T10:18:03.100819-04:00</xoe:syndication-timestamp><xoe:syndication-information>XFABSyndication</xoe:syndication-information><xoe:srctype>ABSTRACT</xoe:srctype></xoe:enhancements><xocs:doc content-type="Abstract" dbname="scopusbase" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd xocs-ani512.xsd"><xocs:meta><xocs:eid>2-s2.0-70249115530</xocs:eid><xocs:oeid/><xocs:doi>10.1016/j.ijms.2009.06.011</xocs:doi><xocs:online-status>available</xocs:online-status><xocs:pui>50585984</xocs:pui><xocs:pii>S138738060900205X</xocs:pii><xocs:fulltext-eid score="97">1-s2.0-S138738060900205X</xocs:fulltext-eid><xocs:issn>13873806</xocs:issn><xocs:volume>286</xocs:volume><xocs:issue>2-3</xocs:issue><xocs:author-surname>Koizumi</xocs:author-surname><xocs:author-fi>H</xocs:author-fi><xocs:firstpage>64</xocs:firstpage><xocs:lastpage>69</xocs:lastpage><xocs:sort-year>2009</xocs:sort-year><xocs:pub-year>2009</xocs:pub-year><xocs:timestamp>20150418</xocs:timestamp><cto:doctype>ar</cto:doctype><cto:group-id>70249115530</cto:group-id><cto:ref-id>29144475231</cto:ref-id><cto:ref-id>2642550919</cto:ref-id><cto:ref-id>0037111303</cto:ref-id><cto:ref-id>49449128699</cto:ref-id><cto:ref-id>0000911289</cto:ref-id><cto:ref-id>4344690834</cto:ref-id><cto:ref-id>19344375387</cto:ref-id><cto:ref-id>0033702785</cto:ref-id><cto:ref-id>0001527372</cto:ref-id><cto:ref-id>0003843122</cto:ref-id><cto:ref-id>0030999705</cto:ref-id><cto:ref-id>0003827618</cto:ref-id><cto:ref-id>0002119883</cto:ref-id><cto:ref-id>33947317406</cto:ref-id><cto:ref-id>0004119596</cto:ref-id><cto:ref-id>39149090033</cto:ref-id><cto:ref-id>0002600808</cto:ref-id><cto:ref-id>33750502861</cto:ref-id><cto:unique-author><cto:auth-initials>H.</cto:auth-initials><cto:auth-indexed-name>Koizumi H.</cto:auth-indexed-name><cto:auth-surname>Koizumi</cto:auth-surname><cto:auth-id>36837904200</cto:auth-id></cto:unique-author><cto:unique-author><cto:auth-initials>W.B.</cto:auth-initials><cto:auth-indexed-name>Whitten W.B.</cto:auth-indexed-name><cto:auth-surname>Whitten</cto:auth-surname><cto:auth-id>7006324470</cto:auth-id></cto:unique-author><cto:unique-author><cto:auth-initials>P.T.A.</cto:auth-initials><cto:auth-indexed-name>Reilly P.T.A.</cto:auth-indexed-name><cto:auth-surname>Reilly</cto:auth-surname><cto:auth-id>7202796068</cto:auth-id></cto:unique-author><cto:unique-author><cto:auth-initials>E.</cto:auth-initials><cto:auth-indexed-name>Koizumi E.</cto:auth-indexed-name><cto:auth-surname>Koizumi</cto:auth-surname><cto:auth-id>26024760200</cto:auth-id></cto:unique-author></xocs:meta><xocs:item><item><ait:process-info><ait:date-delivered day="17" month="04" timestamp="2015-04-17T23:08:43.000043+01:00" year="2015"/><ait:date-sort day="15" month="09" year="2009">20090915</ait:date-sort><ait:status stage="S300" state="update" type="core"/></ait:process-info><bibrecord><item-info>
+<copyright type="Elsevier">Copyright 2009 Elsevier B.V., All rights reserved.</copyright>
+<itemidlist>
+<ce:pii>S138738060900205X</ce:pii>
+<ce:doi>10.1016/j.ijms.2009.06.011</ce:doi>
+<itemid idtype="PUI">50585984</itemid>
+<itemid idtype="CHEM">2009137231</itemid>
+<itemid idtype="SCP">70249115530</itemid>
+<itemid idtype="SGR">70249115530</itemid>
+</itemidlist>
+<history>
+<date-created day="21" month="07" year="2009"/>
+</history>
+<dbcollection>CHEM</dbcollection>
+<dbcollection>Scopusbase</dbcollection>
+</item-info><head><citation-info>
+<citation-type code="ar"/>
+<citation-language xml:lang="eng"/>
+<abstract-language xml:lang="eng"/>
+<author-keywords>
+<author-keyword>Digital ion trap</author-keyword>
+<author-keyword>Ion trap mass spectrometry</author-keyword>
+<author-keyword>Resonance ejection</author-keyword>
+<author-keyword>Sinusoidal ion trap</author-keyword>
+</author-keywords>
+</citation-info><citation-title>
+<titletext original="y" xml:lang="eng">Derivation of mathematical expressions to define resonant ejection from square and sinusoidal wave ion traps</titletext>
+</citation-title><author-group><author auid="36837904200" seq="1">
+<ce:initials>H.</ce:initials>
+<ce:indexed-name>Koizumi H.</ce:indexed-name>
+<ce:surname>Koizumi</ce:surname>
+<ce:given-name>Hideya</ce:given-name>
+<preferred-name>
+<ce:initials>H.</ce:initials>
+<ce:indexed-name>Koizumi H.</ce:indexed-name>
+<ce:surname>Koizumi</ce:surname>
+<ce:given-name>Hideya</ce:given-name>
+</preferred-name>
+</author><author auid="7006324470" seq="2">
+<ce:initials>W.B.</ce:initials>
+<ce:indexed-name>Whitten W.B.</ce:indexed-name>
+<ce:surname>Whitten</ce:surname>
+<ce:given-name>William B.</ce:given-name>
+<preferred-name>
+<ce:initials>W.B.</ce:initials>
+<ce:indexed-name>Whitten W.</ce:indexed-name>
+<ce:surname>Whitten</ce:surname>
+<ce:given-name>William B.</ce:given-name>
+</preferred-name>
+</author><author auid="7202796068" seq="3">
+<ce:initials>P.T.A.</ce:initials>
+<ce:indexed-name>Reilly P.T.A.</ce:indexed-name>
+<ce:surname>Reilly</ce:surname>
+<ce:given-name>Peter T.A.</ce:given-name>
+<preferred-name>
+<ce:initials>P.T.A.</ce:initials>
+<ce:indexed-name>Reilly P.</ce:indexed-name>
+<ce:surname>Reilly</ce:surname>
+<ce:given-name>Peter T A</ce:given-name>
+</preferred-name>
+<ce:e-address type="email">ReillyPT@ornl.gov</ce:e-address>
+</author><affiliation afid="60024266" country="usa"><organization>Oak Ridge National Laboratory</organization><city-group>Oak Ridge, TN 37831</city-group><country>United States</country></affiliation></author-group><author-group><author auid="26024760200" seq="4">
+<ce:initials>E.</ce:initials>
+<ce:indexed-name>Koizumi E.</ce:indexed-name>
+<ce:surname>Koizumi</ce:surname>
+<ce:given-name>Eiko</ce:given-name>
+<preferred-name>
+<ce:initials>E.</ce:initials>
+<ce:indexed-name>Koizumi E.</ce:indexed-name>
+<ce:surname>Koizumi</ce:surname>
+<ce:given-name>Eiko</ce:given-name>
+</preferred-name>
+</author><affiliation afid="100337030" country="usa" dptid="106716589"><organization>Department of Mathematics</organization><organization>Peace College</organization><city-group>Raleigh, NC 27604</city-group><country>United States</country></affiliation></author-group><correspondence><person>
+<ce:initials>P.T.A.</ce:initials>
+<ce:indexed-name>Reilly P.T.A.</ce:indexed-name>
+<ce:surname>Reilly</ce:surname>
+</person><affiliation country="usa"><organization>Oak Ridge National Laboratory</organization><city-group>Oak Ridge, TN 37831</city-group><country>United States</country></affiliation><ce:e-address type="email">ReillyPT@ornl.gov</ce:e-address></correspondence><abstracts>
+<abstract original="y" xml:lang="eng">
+<ce:para>Resonant ejection for mass analysis with ion traps is widely used because it markedly improves the mass range and resolution of ion traps. Unfortunately, an easy-to-use analytical expression that defines the ejection mass as a function of the trapping and excitation frequencies is missing in the literature because the secular frequency of the ions in sinusoidal ion traps is not easily determined for all stable values of q<inf>z</inf> from the Mathieu equation. However, the ion secular frequency for all stable values of q<inf>z</inf> in digital ion traps can be readily determined from Hill's equation. We have taken this expression and solved it for q<inf>z</inf> to produce an analytical expression for the ejection mass as a function of trapping and excitation frequency. We also recognized that the expression for the ion mass during resonant ejection for a square wave driven trap can be converted to an expression for a sinusoidal wave trap merely by multiplication by a factor of 4/π. These new expressions open up the possibility of rapid mass calibration for any method of resonant ejection from square or sinusoidal wave driven ion traps. © 2009 Elsevier B.V. All rights reserved.</ce:para>
+</abstract>
+</abstracts><source country="nld" srcid="12142" type="j">
+<sourcetitle>International Journal of Mass Spectrometry</sourcetitle>
+<sourcetitle-abbrev>Int. J. Mass Spectrom.</sourcetitle-abbrev>
+<issn type="print">13873806</issn>
+<codencode>IMSPF</codencode>
+<volisspag>
+<voliss issue="2-3" volume="286"/>
+<pagerange first="64" last="69"/>
+</volisspag>
+<publicationyear first="2009"/>
+<publicationdate>
+<year>2009</year>
+<month>09</month>
+<day>15</day>
+<date-text xfab-added="true">15 September 2009</date-text></publicationdate>
+</source><enhancement><classificationgroup><classifications type="ASJC">
+<classification>1606</classification>
+<classification>1607</classification>
+<classification>3104</classification>
+<classification>3105</classification>
+</classifications><classifications type="SUBJABBR"><classification>CHEM</classification><classification>PHYS</classification></classifications></classificationgroup></enhancement></head><tail><bibliography refcount="18"><reference><ref-info>
+<refd-itemidlist>
+<itemid idtype="SGR">29144475231</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:indexed-name>Ding L.</ce:indexed-name>
+<ce:surname>Ding</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>S.</ce:initials>
+<ce:indexed-name>Kumashiro S.</ce:indexed-name>
+<ce:surname>Kumashiro</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Rapid Communications Mass Spectrometry</ref-sourcetitle>
+<ref-publicationyear first="2006"/>
+<ref-volisspag>
+<voliss volume="20"/>
+<pagerange first="3"/>
+</ref-volisspag>
+</ref-info><ref-fulltext>Ding L., and Kumashiro S. Rapid Communications Mass Spectrometry 20 (2006) 3</ref-fulltext><refd-itemcitation type="core"><eid>2-s2.0-29144475231</eid><oeid>2-s1.0-7HBW-FG90-TWC1-C0N5-00000-00</oeid><ce:doi>10.1002/rcm.2253</ce:doi><itemid idtype="PUI">41815173</itemid><itemid idtype="CABS">2005335061</itemid><itemid idtype="CHEM">2005192393</itemid><itemid idtype="SCP">29144475231</itemid><itemid idtype="SGR">29144475231</itemid><databases><dbcollection>CABS</dbcollection><dbcollection>CHEM</dbcollection><dbcollection>Scopusbase</dbcollection></databases><citation-title>
+                <titletext xml:lang="eng" original="y">Ion motion in the rectangular wave quadrupole field and digital operation mode of a quadrupole ion trap mass spectrometer</titletext>
+            </citation-title><author-group><author auid="8608936200" seq="1">
+                    <ce:initials>L.</ce:initials>
+                    <ce:indexed-name>Ding L.</ce:indexed-name>
+                    <ce:surname>Ding</ce:surname>
+                    <preferred-name>
+                        <ce:initials>L.</ce:initials>
+                        <ce:indexed-name>Ding L.</ce:indexed-name>
+                        <ce:surname>Ding</ce:surname>
+                        <ce:given-name>L.</ce:given-name>
+                    </preferred-name>
+                    <ce:e-address type="email">liding@srlab.co.uk</ce:e-address>
+                </author><author auid="36817022100" seq="2">
+                    <ce:initials>S.</ce:initials>
+                    <ce:indexed-name>Kumashiro S.</ce:indexed-name>
+                    <ce:surname>Kumashiro</ce:surname>
+                    <preferred-name>
+                        <ce:initials>S.</ce:initials>
+                        <ce:indexed-name>Kumashiro S.</ce:indexed-name>
+                        <ce:surname>Kumashiro</ce:surname>
+                        <ce:given-name>S.</ce:given-name>
+                    </preferred-name>
+                </author><affiliation afid="100316500" country="gbr"><organization>Shimadzu Research Laboratory (Europe) Ltd.</organization><city-group>Manchester M17 1GP</city-group><country>United Kingdom</country></affiliation></author-group><sourcetitle>Rapid Communications in Mass Spectrometry</sourcetitle><sourcetitle-abbrev>Rapid Commun. Mass Spectrom.</sourcetitle-abbrev><issn type="print">09514198</issn><codencode>RCMSE</codencode><publicationyear first="2006"/><volisspag>
+                    <voliss volume="20" issue="1"/>
+                    <pagerange first="3" last="8"/>
+                </volisspag></refd-itemcitation></reference><reference><ref-info>
+<refd-itemidlist>
+<itemid idtype="SGR">2642550919</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:indexed-name>Ding L.</ce:indexed-name>
+<ce:surname>Ding</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Sudakov M.</ce:indexed-name>
+<ce:surname>Sudakov</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>F.L.</ce:initials>
+<ce:indexed-name>Brancia F.L.</ce:indexed-name>
+<ce:surname>Brancia</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>R.</ce:initials>
+<ce:indexed-name>Giles R.</ce:indexed-name>
+<ce:surname>Giles</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>S.</ce:initials>
+<ce:indexed-name>Kumashiro S.</ce:indexed-name>
+<ce:surname>Kumashiro</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Mass Spectrometry</ref-sourcetitle>
+<ref-publicationyear first="2004"/>
+<ref-volisspag>
+<voliss volume="39"/>
+<pagerange first="471"/>
+</ref-volisspag>
+</ref-info><ref-fulltext>Ding L., Sudakov M., Brancia F.L., Giles R., and Kumashiro S. Journal of Mass Spectrometry 39 (2004) 471</ref-fulltext><refd-itemcitation type="core"><eid>2-s2.0-2642550919</eid><oeid>2-s1.0-4CP6-MC80-TWC1-C0NR-00000-00</oeid><ce:doi>10.1002/jms.637</ce:doi><itemid idtype="PUI">38720160</itemid><itemid idtype="EMBASE">2004241685</itemid><itemid idtype="CPX">2004258220399</itemid><itemid idtype="MEDL">15170743</itemid><itemid idtype="SCP">2642550919</itemid><itemid idtype="SGR">2642550919</itemid><databases><dbcollection>EMBASE</dbcollection><dbcollection>CPX</dbcollection><dbcollection>MEDL</dbcollection><dbcollection>Scopusbase</dbcollection></databases><citation-title>
+                <titletext xml:lang="eng" original="y">A digital ion trap mass spectrometer coupled with atmospheric pressure ion sources</titletext>
+            </citation-title><author-group><author auid="8608936200" seq="1">
+                    <ce:initials>L.</ce:initials>
+                    <ce:indexed-name>Ding L.</ce:indexed-name>
+                    <ce:surname>Ding</ce:surname>
+                    <ce:given-name>Li</ce:given-name>
+                    <preferred-name>
+                        <ce:initials>L.</ce:initials>
+                        <ce:indexed-name>Ding L.</ce:indexed-name>
+                        <ce:surname>Ding</ce:surname>
+                        <ce:given-name>Li</ce:given-name>
+                    </preferred-name>
+                    <ce:e-address type="email">li.ding@srlab.co.uk</ce:e-address>
+                </author><author auid="6701704018" seq="2">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Sudakov M.</ce:indexed-name>
+                    <ce:surname>Sudakov</ce:surname>
+                    <ce:given-name>Michael</ce:given-name>
+                    <preferred-name>
+                        <ce:initials>M.</ce:initials>
+                        <ce:indexed-name>Sudakov M.</ce:indexed-name>
+                        <ce:surname>Sudakov</ce:surname>
+                        <ce:given-name>Michael</ce:given-name>
+                    </preferred-name>
+                </author><author auid="6603561014" seq="3">
+                    <ce:initials>F.L.</ce:initials>
+                    <ce:indexed-name>Brancia F.L.</ce:indexed-name>
+                    <ce:surname>Brancia</ce:surname>
+                    <ce:given-name>Francesco L.</ce:given-name>
+                    <preferred-name>
+                        <ce:initials>F.L.</ce:initials>
+                        <ce:indexed-name>Brancia F.</ce:indexed-name>
+                        <ce:surname>Brancia</ce:surname>
+                        <ce:given-name>Francesco L.</ce:given-name>
+                    </preferred-name>
+                </author><author auid="24495072400" seq="4">
+                    <ce:initials>R.</ce:initials>
+                    <ce:indexed-name>Giles R.</ce:indexed-name>
+                    <ce:surname>Giles</ce:surname>
+                    <ce:given-name>Roger</ce:given-name>
+                    <preferred-name>
+                        <ce:initials>R.</ce:initials>
+                        <ce:indexed-name>Giles R.</ce:indexed-name>
+                        <ce:surname>Giles</ce:surname>
+                        <ce:given-name>Roger</ce:given-name>
+                    </preferred-name>
+                </author><author auid="36817022100" seq="5">
+                    <ce:initials>S.</ce:initials>
+                    <ce:indexed-name>Kumashiro S.</ce:indexed-name>
+                    <ce:surname>Kumashiro</ce:surname>
+                    <ce:given-name>Sumio</ce:given-name>
+                    <preferred-name>
+                        <ce:initials>S.</ce:initials>
+                        <ce:indexed-name>Kumashiro S.</ce:indexed-name>
+                        <ce:surname>Kumashiro</ce:surname>
+                        <ce:given-name>Sumio</ce:given-name>
+                    </preferred-name>
+                </author><affiliation afid="100316500" country="gbr"><organization>Shimadzu Res. Lab. Europe Ltd.</organization><address-part>Wharfside, Trafford Wharf Road</address-part><city-group>Manchester M17 1GP</city-group><country>United Kingdom</country></affiliation></author-group><sourcetitle>Journal of Mass Spectrometry</sourcetitle><sourcetitle-abbrev>J. Mass Spectrom.</sourcetitle-abbrev><issn>10765174</issn><codencode>JMSPF</codencode><publicationyear first="2004"/><volisspag>
+                    <voliss volume="39" issue="5"/>
+                    <pagerange first="471" last="484"/>
+                </volisspag></refd-itemcitation></reference><reference><ref-info>
+<refd-itemidlist>
+<itemid idtype="SGR">0037111303</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:indexed-name>Ding L.</ce:indexed-name>
+<ce:surname>Ding</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>M.</ce:initials>
+<ce:indexed-name>Sudakov M.</ce:indexed-name>
+<ce:surname>Sudakov</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>S.</ce:initials>
+<ce:indexed-name>Kumashiro S.</ce:indexed-name>
+<ce:surname>Kumashiro</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Mass Spectrometry</ref-sourcetitle>
+<ref-publicationyear first="2002"/>
+<ref-volisspag>
+<voliss volume="221"/>
+<pagerange first="117"/>
+</ref-volisspag>
+</ref-info><ref-fulltext>Ding L., Sudakov M., and Kumashiro S. International Journal of Mass Spectrometry 221 (2002) 117</ref-fulltext><refd-itemcitation type="core"><eid>2-s2.0-0037111303</eid><oeid>2-s1.0-49G3-RJY0-TWC1-C059-00000-00</oeid><ce:pii>S1387380602009211</ce:pii><ce:doi>10.1016/S1387-3806(02)00921-1</ce:doi><itemid idtype="PUI">35284597</itemid><itemid idtype="CHEM">2002084333</itemid><itemid idtype="SCP">0037111303</itemid><itemid idtype="SGR">0037111303</itemid><databases><dbcollection>CHEM</dbcollection><dbcollection>Scopusbase</dbcollection></databases><citation-title>
+                <titletext xml:lang="eng" original="y">A simulation study of the digital ion trap mass spectrometer</titletext>
+            </citation-title><author-group><author auid="8608936200" seq="1">
+                    <ce:initials>L.</ce:initials>
+                    <ce:indexed-name>Ding L.</ce:indexed-name>
+                    <ce:surname>Ding</ce:surname>
+                    <ce:given-name>Li</ce:given-name>
+                    <preferred-name>
+                        <ce:initials>L.</ce:initials>
+                        <ce:indexed-name>Ding L.</ce:indexed-name>
+                        <ce:surname>Ding</ce:surname>
+                        <ce:given-name>Li</ce:given-name>
+                    </preferred-name>
+                    <ce:e-address type="email">li.ding@srlab.co.uk</ce:e-address>
+                </author><author auid="6701704018" seq="2">
+                    <ce:initials>M.</ce:initials>
+                    <ce:indexed-name>Sudakov M.</ce:indexed-name>
+                    <ce:surname>Sudakov</ce:surname>
+                    <ce:given-name>Michael</ce:given-name>
+                    <preferred-name>
+                        <ce:initials>M.</ce:initials>
+                        <ce:indexed-name>Sudakov M.</ce:indexed-name>
+                        <ce:surname>Sudakov</ce:surname>
+                        <ce:given-name>Michael</ce:given-name>
+                    </preferred-name>
+                </author><author auid="36817022100" seq="3">
+                    <ce:initials>S.</ce:initials>
+                    <ce:indexed-name>Kumashiro S.</ce:indexed-name>
+                    <ce:surname>Kumashiro</ce:surname>
+                    <ce:given-name>Sumio</ce:given-name>
+                    <preferred-name>
+                        <ce:initials>S.</ce:initials>
+                        <ce:indexed-name>Kumashiro S.</ce:indexed-name>
+                        <ce:surname>Kumashiro</ce:surname>
+                        <ce:given-name>Sumio</ce:given-name>
+                    </preferred-name>
+                </author><affiliation afid="100316500" country="gbr"><organization>Shimadzu Research Laboratory (Europe) Ltd.</organization><organization>Wharfside</organization><address-part>Trafford Wharf Road</address-part><city-group>Manchester M17 1GP</city-group><country>United Kingdom</country></affiliation></author-group><sourcetitle>International Journal of Mass Spectrometry</sourcetitle><sourcetitle-abbrev>Int. J. Mass Spectrom.</sourcetitle-abbrev><issn type="print">13873806</issn><codencode>IMSPF</codencode><publicationyear first="2002"/><volisspag>
+                    <voliss volume="221" issue="2"/>
+                    <pagerange first="117" last="138"/>
+                </volisspag></refd-itemcitation></reference><reference><ref-info>
+<refd-itemidlist>
+<itemid idtype="SGR">49449128699</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.A.</ce:initials>
+<ce:indexed-name>Richards J.A.</ce:indexed-name>
+<ce:surname>Richards</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Mass Spectrometry and Ion Processes</ref-sourcetitle>
+<ref-publicationyear first="1977"/>
+<ref-volisspag>
+<voliss volume="24"/>
+<pagerange first="219"/>
+</ref-volisspag>
+</ref-info><ref-fulltext>Richards J.A. International Journal of Mass Spectrometry and Ion Processes 24 (1977) 219</ref-fulltext><refd-itemcitation type="core"><eid>2-s2.0-49449128699</eid><oeid/><ce:pii>0020738177800296</ce:pii><ce:doi>10.1016/0020-7381(77)80029-6</ce:doi><itemid idtype="PUI">207126617</itemid><itemid idtype="ARCELS">2007828046</itemid><itemid idtype="CAR-ID">41080781</itemid><itemid idtype="SCP">49449128699</itemid><itemid idtype="SGR">49449128699</itemid><databases><dbcollection>ARCELS</dbcollection><dbcollection>Scopusbase</dbcollection></databases><citation-title>
+<titletext original="y" xml:lang="eng">Quadrupole mass filter spectrum control using pulse width modulation</titletext>
+</citation-title><author-group><author auid="7403706634" seq="1" type="auth">
+<ce:initials>J.A.</ce:initials>
+<ce:indexed-name>Richards J.A.</ce:indexed-name>
+<ce:surname>Richards</ce:surname>
+<preferred-name>
+<ce:initials>J.A.</ce:initials>
+<ce:indexed-name>Richards J.</ce:indexed-name>
+<ce:surname>Richards</ce:surname>
+<ce:given-name>J. A.</ce:given-name>
+</preferred-name>
+</author><affiliation afid="60019870" country="aus" dptid="104012629"><organization>Department of Electrical Engineering, James Cook University of North Queensland</organization><city-group>Townsville, QLD 4811</city-group><country>Australia</country></affiliation></author-group><sourcetitle>International Journal of Mass Spectrometry and Ion Physics</sourcetitle><issn type="print">00207381</issn><publicationyear first="1977"/><volisspag>
+<voliss issue="2" volume="24"/>
+<pagerange first="219" last="224"/>
+</volisspag></refd-itemcitation></reference><reference><ref-info>
+<refd-itemidlist>
+<itemid idtype="SGR">0000911289</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.A.</ce:initials>
+<ce:indexed-name>Richards J.A.</ce:indexed-name>
+<ce:surname>Richards</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>R.M.</ce:initials>
+<ce:indexed-name>Huey R.M.</ce:indexed-name>
+<ce:surname>Huey</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>J.</ce:initials>
+<ce:indexed-name>Hiller J.</ce:indexed-name>
+<ce:surname>Hiller</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Mass Spectrometry and Ion Physics</ref-sourcetitle>
+<ref-publicationyear first="1973"/>
+<ref-volisspag>
+<voliss volume="12"/>
+<pagerange first="317"/>
+</ref-volisspag>
+</ref-info><ref-fulltext>Richards J.A., Huey R.M., and Hiller J. International Journal of Mass Spectrometry and Ion Physics 12 (1973) 317</ref-fulltext><refd-itemcitation type="core"><eid>2-s2.0-0000911289</eid><oeid>2-s1.0-49CM-1RV0-TWC1-C0H1-00000-00</oeid><ce:pii>0020-7381(73)80102-0</ce:pii><ce:doi>10.1016/0020-7381(73)80102-0</ce:doi><itemid idtype="PUI">293202270</itemid><itemid idtype="ARCELS">2008753091</itemid><itemid idtype="CAR-ID">40196073</itemid><itemid idtype="SCP">0000911289</itemid><itemid idtype="SGR">0000911289</itemid><databases><dbcollection>ARCELS</dbcollection><dbcollection>Scopusbase</dbcollection></databases><citation-title>
+<titletext original="y" xml:lang="eng">A new operating mode for the quadrupole mass filter</titletext>
+</citation-title><author-group><author auid="7403706634" seq="1" type="auth">
+<ce:initials>J.A.</ce:initials>
+<ce:indexed-name>Richards J.A.</ce:indexed-name>
+<ce:surname>Richards</ce:surname>
+<preferred-name>
+<ce:initials>J.A.</ce:initials>
+<ce:indexed-name>Richards J.</ce:indexed-name>
+<ce:surname>Richards</ce:surname>
+<ce:given-name>J. A.</ce:given-name>
+</preferred-name>
+</author><affiliation afid="60019870" country="aus" dptid="106101127"><organization>Electrical Engineering Division, James Cook University of North Queensland, Post Office</organization><city-group>Townsville, QLD 4811</city-group><country>Australia</country></affiliation></author-group><author-group><author auid="23001132800" seq="2" type="auth">
+<ce:initials>R.M.</ce:initials>
+<ce:indexed-name>Huey R.M.</ce:indexed-name>
+<ce:surname>Huey</ce:surname>
+<preferred-name>
+<ce:initials>R.M.</ce:initials>
+<ce:indexed-name>Huey R.</ce:indexed-name>
+<ce:surname>Huey</ce:surname>
+<ce:given-name>R. M.</ce:given-name>
+</preferred-name>
+</author><affiliation afid="60016653" country="deu" dptid="103858574"><organization>Institut für Theoretische Elektrotechnik, Rheinisch-Westfalische Technische Hochschule</organization><city-group>Aachen</city-group><country>Germany</country></affiliation></author-group><author-group><author auid="56370832500" seq="3" type="auth">
+<ce:initials>J.</ce:initials>
+<ce:indexed-name>Hiller J.</ce:indexed-name>
+<ce:surname>Hiller</ce:surname>
+<preferred-name>
+<ce:initials>J.</ce:initials>
+<ce:indexed-name>Hiller J.</ce:indexed-name>
+<ce:surname>Hiller</ce:surname>
+<ce:given-name>J.</ce:given-name>
+</preferred-name>
+</author><affiliation afid="60028333" country="aus" dptid="105205141"><organization>School of Electrical Engineering, The University of New South Wales</organization><address-part>P.O. Box 1</address-part><city-group>Kensington, NSW 2033</city-group><country>Australia</country></affiliation></author-group><sourcetitle>International Journal of Mass Spectrometry and Ion Physics</sourcetitle><issn type="print">00207381</issn><publicationyear first="1973"/><volisspag>
+<voliss issue="4" volume="12"/>
+<pagerange first="317" last="339"/>
+</volisspag></refd-itemcitation></reference><reference><ref-info>
+<ref-title>
+<ref-titletext>Direct Digital Synthesis: A Tool for Periodic Wave Generation (Part 1)</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">4344690834</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:indexed-name>Cordesses L.</ce:indexed-name>
+<ce:surname>Cordesses</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>IEEE Signal Processing Magazine</ref-sourcetitle>
+<ref-publicationyear first="2004"/>
+<ref-volisspag>
+<pagerange first="50" last="54"/>
+</ref-volisspag>
+<ref-text>July</ref-text>
+</ref-info><ref-fulltext>L. Cordesses, Direct Digital Synthesis: A Tool for Periodic Wave Generation (Part 1). IEEE Signal Processing Magazine July 2004, pp. 50-54.</ref-fulltext><refd-itemcitation type="core"><eid>2-s2.0-4344690834</eid><oeid>2-s1.0-4DJ4-CHY0-TWC1-C0JD-00000-00</oeid><ce:doi>10.1109/MSP.2004.1311140</ce:doi><itemid idtype="PUI">39148466</itemid><itemid idtype="CPX">2004378355743</itemid><itemid idtype="SCP">4344690834</itemid><itemid idtype="SGR">4344690834</itemid><databases><dbcollection>CPX</dbcollection><dbcollection>Scopusbase</dbcollection></databases><citation-title>
+                <titletext xml:lang="eng" original="y">Direct digital synthesis: A tool for periodic wave generation (Part 1)</titletext>
+            </citation-title><author-group><author auid="6507158994" seq="1">
+                    <ce:initials>L.</ce:initials>
+                    <ce:indexed-name>Cordesses L.</ce:indexed-name>
+                    <ce:surname>Cordesses</ce:surname>
+                    <ce:given-name>Lionel</ce:given-name>
+                    <preferred-name>
+                        <ce:initials>L.</ce:initials>
+                        <ce:indexed-name>Cordesses L.</ce:indexed-name>
+                        <ce:surname>Cordesses</ce:surname>
+                        <ce:given-name>Lionel</ce:given-name>
+                    </preferred-name>
+                </author><affiliation afid="60002624" country="fra"><organization>Technocentre Renault</organization><organization>IEEE</organization><organization>ACM</organization><city-group>Guyancourt</city-group><country>France</country></affiliation></author-group><sourcetitle>IEEE Signal Processing Magazine</sourcetitle><sourcetitle-abbrev>IEEE Signal Process Mag</sourcetitle-abbrev><issn type="print">10535888</issn><codencode>ISPRE</codencode><publicationyear first="2004"/><volisspag>
+                    <voliss volume="21" issue="4"/>
+                    <pagerange first="50" last="54"/>
+                </volisspag></refd-itemcitation></reference><reference><ref-info>
+<ref-title>
+<ref-titletext>Direct Digital Synthesis: A Tool for Periodic Wave Generation (Part 2)</ref-titletext>
+</ref-title>
+<refd-itemidlist>
+<itemid idtype="SGR">19344375387</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:indexed-name>Cordesses L.</ce:indexed-name>
+<ce:surname>Cordesses</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>IEEE Signal Processing Magazine</ref-sourcetitle>
+<ref-publicationyear first="2004"/>
+<ref-volisspag>
+<pagerange first="110" last="117"/>
+</ref-volisspag>
+<ref-text>September</ref-text>
+</ref-info><ref-fulltext>L. Cordesses, Direct Digital Synthesis: A Tool for Periodic Wave Generation (Part 2). IEEE Signal Processing Magazine September 2004, pp. 110-117.</ref-fulltext><refd-itemcitation type="core"><eid>2-s2.0-19344375387</eid><oeid>2-s1.0-4GCP-GXR0-TWC1-C1HF-00000-00</oeid><ce:doi>10.1109/MSP.2004.1328096</ce:doi><itemid idtype="CPX">2004408386714</itemid><itemid idtype="PUI">39235696</itemid><itemid idtype="SCP">19344375387</itemid><itemid idtype="SGR">19344375387</itemid><databases><dbcollection>CPX</dbcollection><dbcollection>Scopusbase</dbcollection></databases><citation-title><titletext xml:lang="eng" original="y">Direct digital synthesis: A tool for periodic wave generation (Part 2)</titletext></citation-title><author-group><author seq="1" auid="6507158994"><ce:initials>L.</ce:initials><ce:indexed-name>Cordesses L.</ce:indexed-name><ce:surname>Cordesses</ce:surname><ce:given-name>Lionel</ce:given-name><preferred-name><ce:initials>L.</ce:initials><ce:indexed-name>Cordesses L.</ce:indexed-name><ce:surname>Cordesses</ce:surname><ce:given-name>Lionel</ce:given-name></preferred-name></author><affiliation country="fra" afid="60002624"><organization>Technocentre Renault</organization><city-group>Guyancourt</city-group><country>France</country></affiliation></author-group><sourcetitle>IEEE Signal Processing Magazine</sourcetitle><sourcetitle-abbrev>IEEE Signal Process Mag</sourcetitle-abbrev><issn>10535888</issn><codencode>ISPRE</codencode><publicationyear first="2004"/><volisspag><voliss volume="21" issue="5"/><pages>110-112+117</pages></volisspag></refd-itemcitation></reference><reference><ref-info>
+<refd-itemidlist>
+<itemid idtype="SGR">0033702785</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>V.F.</ce:initials>
+<ce:indexed-name>Kroupa V.F.</ce:indexed-name>
+<ce:surname>Kroupa</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Direct Digital Frequency Synthesizers</ref-sourcetitle>
+<ref-publicationyear first="1999"/>
+<ref-text>Institute of Electrical and Electronics Engineers, New York</ref-text>
+</ref-info><ref-fulltext>Kroupa V.F. Direct Digital Frequency Synthesizers (1999), Institute of Electrical and Electronics Engineers, New York</ref-fulltext><refd-itemcitation type="core"><eid>2-s2.0-0033702785</eid><oeid>2-s1.0-49HN-X450-TWC1-C0JN-00000-00</oeid><itemid idtype="PUI">30926299</itemid><itemid idtype="CPX">2000465353551</itemid><itemid idtype="SCP">0033702785</itemid><itemid idtype="SGR">0033702785</itemid><databases><dbcollection>CPX</dbcollection><dbcollection>Scopusbase</dbcollection></databases><citation-title>
+<titletext original="y" xml:lang="eng">Parabolic approximation: A new method for phase-to-amplitude conversion in sine-output direct digital frequency synthesizers</titletext>
+</citation-title><author-group><author auid="6602471989" seq="1">
+<ce:initials>Amir M.</ce:initials>
+<ce:indexed-name>Sodagar Amir M.</ce:indexed-name>
+<ce:surname>Sodagar</ce:surname>
+<preferred-name>
+<ce:initials>A.M.</ce:initials>
+<ce:indexed-name>Sodagar A.</ce:indexed-name>
+<ce:surname>Sodagar</ce:surname>
+<ce:given-name>Amir M.</ce:given-name>
+</preferred-name>
+</author><author auid="6602274383" seq="2">
+<ce:initials>G.R.</ce:initials>
+<ce:indexed-name>Lahiji G.R.</ce:indexed-name>
+<ce:surname>Lahiji</ce:surname>
+<preferred-name>
+<ce:initials>G.R.</ce:initials>
+<ce:indexed-name>Lahiji G.</ce:indexed-name>
+<ce:surname>Lahiji</ce:surname>
+<ce:given-name>G. R.</ce:given-name>
+</preferred-name>
+</author><affiliation afid="60001784" country="irn"><organization>S. Rajaee Univ</organization><city-group>Tehran</city-group><country>Iran</country></affiliation></author-group><sourcetitle>Proceedings - IEEE International Symposium on Circuits and Systems</sourcetitle><sourcetitle-abbrev>Proc IEEE Int Symp Circuits Syst</sourcetitle-abbrev><issn>02714310</issn><codencode>PICSD</codencode><publicationyear first="2000"/><volisspag>
+<voliss volume="1"/>
+<pages>I-515-I-518</pages>
+</volisspag></refd-itemcitation></reference><reference><ref-info>
+<refd-itemidlist>
+<itemid idtype="SGR">0001527372</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.E.</ce:initials>
+<ce:indexed-name>Goeringer D.E.</ce:indexed-name>
+<ce:surname>Goeringer</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>W.B.</ce:initials>
+<ce:indexed-name>Whitten W.B.</ce:indexed-name>
+<ce:surname>Whitten</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>J.M.</ce:initials>
+<ce:indexed-name>Ramsey J.M.</ce:indexed-name>
+<ce:surname>Ramsey</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>S.A.</ce:initials>
+<ce:indexed-name>McLuckey S.A.</ce:indexed-name>
+<ce:surname>McLuckey</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>G.L.</ce:initials>
+<ce:indexed-name>Glish G.L.</ce:indexed-name>
+<ce:surname>Glish</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Analytical Chemistry</ref-sourcetitle>
+<ref-publicationyear first="1992"/>
+<ref-volisspag>
+<voliss volume="64"/>
+<pagerange first="1434"/>
+</ref-volisspag>
+</ref-info><ref-fulltext>Goeringer D.E., Whitten W.B., Ramsey J.M., McLuckey S.A., and Glish G.L. Analytical Chemistry 64 (1992) 1434</ref-fulltext><refd-itemcitation type="core"><eid>2-s2.0-0001527372</eid><oeid>2-s1.0-49CK-32G0-TWC1-C0FT-00000-00</oeid><itemid idtype="PUI">123020265</itemid><itemid idtype="SNEMB">2002378284</itemid><itemid idtype="SNCHEM">2002209881</itemid><itemid idtype="SNCPX">2002774838</itemid><itemid idtype="CPX">2005118965731</itemid><itemid idtype="SCP">0001527372</itemid><itemid idtype="SGR">0001527372</itemid><databases><dbcollection>SNEMB</dbcollection><dbcollection>SNCHEM</dbcollection><dbcollection>SNCPX</dbcollection><dbcollection>CPX</dbcollection><dbcollection>Scopusbase</dbcollection></databases><citation-title><titletext xml:lang="eng" original="y">Theory of high-resolution mass spectrometry achieved via resonance ejection in the quadrupole ion trap</titletext></citation-title><author-group><author auid="7004023128" seq="1"><ce:initials>D.E.</ce:initials><ce:indexed-name>Goeringer D.E.</ce:indexed-name><ce:surname>Goeringer</ce:surname><ce:given-name>Douglas E.</ce:given-name><preferred-name><ce:initials>D.E.</ce:initials><ce:indexed-name>Goeringer D.</ce:indexed-name><ce:surname>Goeringer</ce:surname><ce:given-name>Douglas E.</ce:given-name></preferred-name></author><author auid="7006324470" seq="2"><ce:initials>W.B.</ce:initials><ce:indexed-name>Whitten W.B.</ce:indexed-name><ce:surname>Whitten</ce:surname><ce:given-name>William B.</ce:given-name><preferred-name><ce:initials>W.B.</ce:initials><ce:indexed-name>Whitten W.</ce:indexed-name><ce:surname>Whitten</ce:surname><ce:given-name>William B.</ce:given-name></preferred-name></author><author auid="7201741363" seq="3"><ce:initials>J.M.</ce:initials><ce:indexed-name>Ramsey J.M.</ce:indexed-name><ce:surname>Ramsey</ce:surname><ce:given-name>J. Michael</ce:given-name><preferred-name><ce:initials>J.M.</ce:initials><ce:indexed-name>Ramsey J.</ce:indexed-name><ce:surname>Ramsey</ce:surname><ce:given-name>J. Michael</ce:given-name></preferred-name></author><author auid="7006165168" seq="4"><ce:initials>S.A.</ce:initials><ce:indexed-name>McLuckey S.A.</ce:indexed-name><ce:surname>McLuckey</ce:surname><ce:given-name>Scott A.</ce:given-name><preferred-name><ce:initials>S.A.</ce:initials><ce:indexed-name>McLuckey S.</ce:indexed-name><ce:surname>McLuckey</ce:surname><ce:given-name>Scott A.</ce:given-name></preferred-name></author><author auid="7006568276" seq="5"><ce:initials>G.L.</ce:initials><ce:indexed-name>Glish G.L.</ce:indexed-name><ce:surname>Glish</ce:surname><ce:given-name>Gary L.</ce:given-name><preferred-name><ce:initials>G.L.</ce:initials><ce:indexed-name>Glish G.</ce:indexed-name><ce:surname>Glish</ce:surname><ce:given-name>Gary L.</ce:given-name></preferred-name></author><affiliation afid="60024266" dptid="104223961" country="usa"><organization>Analytical Chemistry Division</organization><organization>Oak Ridge National Laboratory</organization><city-group>Oak Ridge, TN 37831-6365</city-group><country>United States</country></affiliation></author-group><sourcetitle>Analytical Chemistry</sourcetitle><sourcetitle-abbrev>Anal. Chem.</sourcetitle-abbrev><issn type="print">00032700</issn><codencode>ANCHA</codencode><publicationyear first="1992"/><volisspag><voliss volume="64" issue="13"/><pagerange first="1434" last="1439"/></volisspag></refd-itemcitation></reference><reference><ref-info>
+<refd-itemidlist>
+<itemid idtype="SGR">0003843122</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.H.</ce:initials>
+<ce:indexed-name>Dawson P.H.</ce:indexed-name>
+<ce:surname>Dawson</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Quadrupole Mass Spectrometry and Its Applications</ref-sourcetitle>
+<ref-publicationyear first="1995"/>
+<ref-text>AIP Press, Woodbury, NY p. 65</ref-text>
+</ref-info><ref-fulltext>Dawson P.H. Quadrupole Mass Spectrometry and Its Applications (1995), AIP Press, Woodbury, NY p. 65</ref-fulltext><refd-itemcitation type="dummy"><eid>2-s2.0-0003843122</eid><oeid>2-s1.0-499G-29T0-TWC1-C06F-00000-00</oeid><itemid idtype="SCP">0003843122</itemid><itemid idtype="SGR">0003843122</itemid><databases><dbcollection>Scopusbase</dbcollection></databases><author-group><author seq="1">
+<ce:initials>P.H.</ce:initials>
+<ce:indexed-name>Dawson P.H.</ce:indexed-name>
+<ce:surname>Dawson</ce:surname>
+</author></author-group><sourcetitle>Quadrupole Mass Spectrometry and Its Applications</sourcetitle><publicationyear first="1976"/></refd-itemcitation></reference><reference><ref-info>
+<refd-itemidlist>
+<itemid idtype="SGR">0030999705</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.E.</ce:initials>
+<ce:indexed-name>March R.E.</ce:indexed-name>
+<ce:surname>March</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Mass Spectrometry</ref-sourcetitle>
+<ref-publicationyear first="1997"/>
+<ref-volisspag>
+<voliss volume="32"/>
+<pagerange first="351"/>
+</ref-volisspag>
+</ref-info><ref-fulltext>March R.E. Journal of Mass Spectrometry 32 (1997) 351</ref-fulltext><refd-itemcitation type="core"><eid>2-s2.0-0030999705</eid><oeid>2-s1.0-499F-07M0-TWC1-C0FY-00000-00</oeid><ce:doi>10.1002/(SICI)1096-9888(199704)32:4&lt;351::AID-JMS512&gt;3.0.CO;2-Y</ce:doi><itemid idtype="CABS">1997096190</itemid><itemid idtype="EMBASE">1997119903</itemid><itemid idtype="PUI">27171151</itemid><itemid idtype="SCP">0030999705</itemid><itemid idtype="SGR">0030999705</itemid><databases><dbcollection>CABS</dbcollection><dbcollection>EMBASE</dbcollection><dbcollection>Scopusbase</dbcollection></databases><citation-title><titletext xml:lang="eng" original="y">An introduction to quadrupole ion trap mass spectrometry</titletext></citation-title><author-group><author seq="1" auid="7007034629"><ce:initials>R.E.</ce:initials><ce:indexed-name>March R.E.</ce:indexed-name><ce:surname>March</ce:surname><ce:given-name>Raymond E.</ce:given-name><preferred-name><ce:initials>R.E.</ce:initials><ce:indexed-name>March R.</ce:indexed-name><ce:surname>March</ce:surname><ce:given-name>Raymond E.</ce:given-name></preferred-name></author><affiliation country="can" afid="60031024" dptid="100284867"><organization>Department of Chemistry</organization><organization>Trent University</organization><city-group>Peterborough, Ont. K9J 7B8</city-group><country>Canada</country></affiliation></author-group><sourcetitle>Journal of Mass Spectrometry</sourcetitle><sourcetitle-abbrev>J. MASS SPECTROM.</sourcetitle-abbrev><issn>10765174</issn><codencode>JMSPF</codencode><publicationyear first="1997"/><volisspag><voliss volume="32" issue="4"/><pagerange first="351" last="369"/></volisspag></refd-itemcitation></reference><reference><ref-info>
+<refd-itemidlist>
+<itemid idtype="SGR">0003827618</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.E.</ce:initials>
+<ce:indexed-name>March R.E.</ce:indexed-name>
+<ce:surname>March</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.F.J.</ce:initials>
+<ce:indexed-name>Todd J.F.J.</ce:indexed-name>
+<ce:surname>Todd</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Practical Aspects of Ion Trap Mass Spectrometry: Fundamentals</ref-sourcetitle>
+<ref-publicationyear first="1995"/>
+<ref-volisspag>
+<voliss volume="1"/>
+</ref-volisspag>
+<ref-text>CRC Press, Boca Raton, FL p. 83</ref-text>
+</ref-info><ref-fulltext>March R.E., and Todd J.F.J. Practical Aspects of Ion Trap Mass Spectrometry: Fundamentals vol. 1 (1995), CRC Press, Boca Raton, FL p. 83</ref-fulltext><refd-itemcitation type="dummy"><eid>2-s2.0-0003827618</eid><oeid>2-s1.0-498S-WMN0-TWC1-C097-00000-00</oeid><itemid idtype="SCP">0003827618</itemid><itemid idtype="SGR">0003827618</itemid><databases><dbcollection>Scopusbase</dbcollection></databases><author-group><author seq="1">
+<ce:initials>R.E.</ce:initials>
+<ce:indexed-name>March R.E.</ce:indexed-name>
+<ce:surname>March</ce:surname>
+</author><author seq="2">
+<ce:initials>J.F.J.</ce:initials>
+<ce:indexed-name>Todd J.F.J.</ce:indexed-name>
+<ce:surname>Todd</ce:surname>
+</author></author-group><sourcetitle>Practical Aspects of Ion Trap Mass Spectrometry</sourcetitle><publicationyear first="1995"/></refd-itemcitation></reference><reference><ref-info>
+<refd-itemidlist>
+<itemid idtype="SGR">0002119883</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.G.</ce:initials>
+<ce:indexed-name>Dehmelt H.G.</ce:indexed-name>
+<ce:surname>Dehmelt</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Advances in Atomic and Molecular Physics</ref-sourcetitle>
+<ref-publicationyear first="1967"/>
+<ref-volisspag>
+<voliss volume="3"/>
+<pagerange first="53"/>
+</ref-volisspag>
+</ref-info><ref-fulltext>Dehmelt H.G. Advances in Atomic and Molecular Physics 3 (1967) 53</ref-fulltext><refd-itemcitation type="dummy"><eid>2-s2.0-0002119883</eid><oeid>2-s1.0-49BJ-DTG0-TWC1-C1P8-00000-00</oeid><itemid idtype="SCP">0002119883</itemid><itemid idtype="SGR">0002119883</itemid><databases><dbcollection>Scopusbase</dbcollection></databases><citation-title>
+<titletext xml:lang="eng">Radiofrequency spectroscopy of stored ions I: Storage</titletext>
+</citation-title><author-group><author seq="1">
+<ce:initials>H.G.</ce:initials>
+<ce:indexed-name>Dehmelt H.G.</ce:indexed-name>
+<ce:surname>Dehmelt</ce:surname>
+</author></author-group><sourcetitle>Adv. At. Mol. Phys.</sourcetitle><publicationyear first="1967"/><volisspag>
+<voliss volume="3"/>
+<pagerange first="53" last="72"/>
+</volisspag></refd-itemcitation></reference><reference><ref-info>
+<refd-itemidlist>
+<itemid idtype="SGR">33947317406</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.J.</ce:initials>
+<ce:indexed-name>Trevitt A.J.</ce:indexed-name>
+<ce:surname>Trevitt</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>P.J.</ce:initials>
+<ce:indexed-name>Wearne P.J.</ce:indexed-name>
+<ce:surname>Wearne</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>E.J.</ce:initials>
+<ce:indexed-name>Bieske E.J.</ce:indexed-name>
+<ce:surname>Bieske</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Mass Spectrometry</ref-sourcetitle>
+<ref-publicationyear first="2007"/>
+<ref-volisspag>
+<voliss volume="262"/>
+<pagerange first="241"/>
+</ref-volisspag>
+</ref-info><ref-fulltext>Trevitt A.J., Wearne P.J., and Bieske E.J. International Journal of Mass Spectrometry 262 (2007) 241</ref-fulltext><refd-itemcitation type="core"><eid>2-s2.0-33947317406</eid><oeid/><ce:pii>S1387380606005598</ce:pii><ce:doi>10.1016/j.ijms.2006.11.019</ce:doi><itemid idtype="CHEM">2007046132</itemid><itemid idtype="PUI">46441965</itemid><itemid idtype="SCP">33947317406</itemid><itemid idtype="SGR">33947317406</itemid><databases><dbcollection>CHEM</dbcollection><dbcollection>Scopusbase</dbcollection></databases><citation-title><titletext xml:lang="eng" original="y">Calibration of a quadrupole ion trap for particle mass spectrometry</titletext></citation-title><author-group><author seq="1" auid="24759416100"><ce:initials>A.J.</ce:initials><ce:indexed-name>Trevitt A.J.</ce:indexed-name><ce:surname>Trevitt</ce:surname><ce:given-name>Adam J.</ce:given-name><preferred-name> <ce:initials>A.J.</ce:initials> <ce:indexed-name>Trevitt A.</ce:indexed-name> <ce:surname>Trevitt</ce:surname> <ce:given-name>Adam J.</ce:given-name> </preferred-name> </author><author seq="2" auid="14833486400"><ce:initials>P.J.</ce:initials><ce:indexed-name>Wearne P.J.</ce:indexed-name><ce:surname>Wearne</ce:surname><ce:given-name>Philip J.</ce:given-name><preferred-name> <ce:initials>P.J.</ce:initials> <ce:indexed-name>Wearne P.</ce:indexed-name> <ce:surname>Wearne</ce:surname> <ce:given-name>Philip J.</ce:given-name> </preferred-name> </author><author seq="3" auid="7004906237"><ce:initials>E.J.</ce:initials><ce:indexed-name>Bieske E.J.</ce:indexed-name><ce:surname>Bieske</ce:surname><ce:given-name>Evan J.</ce:given-name><preferred-name> <ce:initials>E.J.</ce:initials> <ce:indexed-name>Bieske E.</ce:indexed-name> <ce:surname>Bieske</ce:surname> <ce:given-name>Evan J.</ce:given-name> </preferred-name> <ce:e-address type="email">evanjb@unimelb.edu.au</ce:e-address> </author><affiliation country="aus" afid="60026553" dptid="104343936"><organization>School of Chemistry</organization><organization>University of Melbourne</organization><city-group>Vic. 3010</city-group><country>Australia</country></affiliation></author-group><sourcetitle>International Journal of Mass Spectrometry</sourcetitle><sourcetitle-abbrev>Int. J. Mass Spectrom.</sourcetitle-abbrev><issn type="print">13873806</issn><codencode>IMSPF</codencode><publicationyear first="2007"/><volisspag><voliss volume="262" issue="3"/><pagerange first="241" last="246"/></volisspag></refd-itemcitation></reference><reference><ref-info>
+<refd-itemidlist>
+<itemid idtype="SGR">0004119596</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.W.</ce:initials>
+<ce:indexed-name>McLachlan N.W.</ce:indexed-name>
+<ce:surname>McLachlan</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Theory and Application of Mathieu Functions</ref-sourcetitle>
+<ref-publicationyear first="1962"/>
+<ref-text>New York</ref-text>
+</ref-info><ref-fulltext>N.W. McLachlan, Theory and Application of Mathieu Functions. New York, 1962.</ref-fulltext><refd-itemcitation type="dummy"><eid>2-s2.0-0004119596</eid><oeid>2-s1.0-498N-92C0-TWC1-C1CB-00000-00</oeid><itemid idtype="SCP">0004119596</itemid><itemid idtype="SGR">0004119596</itemid><databases><dbcollection>Scopusbase</dbcollection></databases><author-group><author seq="1">
+<ce:initials>N.W.</ce:initials>
+<ce:indexed-name>McLachlan N.W.</ce:indexed-name>
+<ce:surname>McLachlan</ce:surname>
+</author></author-group><sourcetitle>Theory and Application of Mathieu Functions</sourcetitle><publicationyear first="1947"/></refd-itemcitation></reference><reference><ref-info>
+<refd-itemidlist>
+<itemid idtype="SGR">39149090033</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:indexed-name>Moradian A.</ce:indexed-name>
+<ce:surname>Moradian</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>D.J.</ce:initials>
+<ce:indexed-name>Douglas D.J.</ce:indexed-name>
+<ce:surname>Douglas</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of the American Society for Mass Spectrometry</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<ref-volisspag>
+<voliss volume="19"/>
+<pagerange first="270"/>
+</ref-volisspag>
+</ref-info><ref-fulltext>Moradian A., and Douglas D.J. Journal of the American Society for Mass Spectrometry 19 (2008) 270</ref-fulltext><refd-itemcitation type="core"><eid>2-s2.0-39149090033</eid><oeid/><ce:pii>S1044030507009634</ce:pii><ce:doi>10.1016/j.jasms.2007.10.025</ce:doi><itemid idtype="PUI">50013844</itemid><itemid idtype="EMBASE">2008081731</itemid><itemid idtype="CPX">20080811109588</itemid><itemid idtype="CHEM">2008030354</itemid><itemid idtype="SCP">39149090033</itemid><itemid idtype="SGR">39149090033</itemid><databases><dbcollection>EMBASE</dbcollection><dbcollection>CPX</dbcollection><dbcollection>CHEM</dbcollection><dbcollection>Scopusbase</dbcollection></databases><citation-title>
+<titletext original="y" xml:lang="eng">Mass Selective Axial Ion Ejection from Linear Quadrupoles with Added Octopole Fields</titletext>
+</citation-title><author-group><author auid="36980043900" seq="1">
+<ce:initials>A.</ce:initials>
+<ce:indexed-name>Moradian A.</ce:indexed-name>
+<ce:surname>Moradian</ce:surname>
+<ce:given-name>Annie</ce:given-name>
+<preferred-name>
+<ce:initials>A.</ce:initials>
+<ce:indexed-name>Moradian A.</ce:indexed-name>
+<ce:surname>Moradian</ce:surname>
+<ce:given-name>Annie</ce:given-name>
+</preferred-name>
+</author><author auid="7203040021" seq="2">
+<ce:initials>D.J.</ce:initials>
+<ce:indexed-name>Douglas D.J.</ce:indexed-name>
+<ce:surname>Douglas</ce:surname>
+<preferred-name>
+<ce:initials>D.J.</ce:initials>
+<ce:indexed-name>Douglas D.</ce:indexed-name>
+<ce:surname>Douglas</ce:surname>
+<ce:given-name>D. J.</ce:given-name>
+</preferred-name>
+<ce:e-address type="email">douglas@chem.ubc.ca</ce:e-address>
+</author><affiliation afid="60010365" country="can" dptid="100256626"><organization>Department of Chemistry</organization><organization>University of British Columbia</organization><city-group>Vancouver, BC</city-group><country>Canada</country></affiliation></author-group><sourcetitle>Journal of the American Society for Mass Spectrometry</sourcetitle><sourcetitle-abbrev>J. Am. Soc. Mass Spectrom.</sourcetitle-abbrev><issn type="print">10440305</issn><codencode>JAMSE</codencode><publicationyear first="2008"/><volisspag>
+<voliss issue="2" volume="19"/>
+<pagerange first="270" last="280"/>
+</volisspag></refd-itemcitation></reference><reference><ref-info>
+<refd-itemidlist>
+<itemid idtype="SGR">0002600808</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>F.A.</ce:initials>
+<ce:indexed-name>Londry F.A.</ce:indexed-name>
+<ce:surname>Londry</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>R.E.</ce:initials>
+<ce:indexed-name>March R.E.</ce:indexed-name>
+<ce:surname>March</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Mass Spectrometry and Ion Processes</ref-sourcetitle>
+<ref-publicationyear first="1995"/>
+<ref-volisspag>
+<voliss volume="144"/>
+<pagerange first="87"/>
+</ref-volisspag>
+</ref-info><ref-fulltext>Londry F.A., and March R.E. International Journal of Mass Spectrometry and Ion Processes 144 (1995) 87</ref-fulltext><refd-itemcitation type="core"><eid>2-s2.0-0002600808</eid><oeid>2-s1.0-49BB-7GH0-TWC1-C040-00000-00</oeid><ce:pii>016811769504153C</ce:pii><ce:doi>10.1016/0168-1176(95)04153-C</ce:doi><itemid idtype="PUI">225223989</itemid><itemid idtype="ARCELS">2010410517</itemid><itemid idtype="CAR-ID">46284018</itemid><itemid idtype="SCP">0002600808</itemid><itemid idtype="SGR">0002600808</itemid><databases><dbcollection>ARCELS</dbcollection><dbcollection>Scopusbase</dbcollection></databases><citation-title>
+<titletext original="y" xml:lang="eng">Systematic factors affecting high mass-resolution and accurate mass assignment in a quadrupole ion trap</titletext>
+</citation-title><author-group><author auid="6602431147" seq="1" type="auth">
+<ce:initials>F.A.</ce:initials>
+<ce:indexed-name>Londry F.A.</ce:indexed-name>
+<ce:surname>Londry</ce:surname>
+<ce:given-name>F.A</ce:given-name>
+<preferred-name>
+<ce:initials>F.A.</ce:initials>
+<ce:indexed-name>Londry F.</ce:indexed-name>
+<ce:surname>Londry</ce:surname>
+<ce:given-name>F. A.</ce:given-name>
+</preferred-name>
+</author><author auid="7007034629" seq="2" type="auth">
+<ce:initials>R.E.</ce:initials>
+<ce:indexed-name>March R.E.</ce:indexed-name>
+<ce:surname>March</ce:surname>
+<ce:given-name>R.E</ce:given-name>
+<preferred-name>
+<ce:initials>R.E.</ce:initials>
+<ce:indexed-name>March R.</ce:indexed-name>
+<ce:surname>March</ce:surname>
+<ce:given-name>R. E.</ce:given-name>
+</preferred-name>
+</author><affiliation afid="60031024" country="can"><organization>Trent University</organization><city-group>Peterborough, Ont. K9J 7B8</city-group><country>Canada</country></affiliation></author-group><sourcetitle>International Journal of Mass Spectrometry and Ion Processes</sourcetitle><sourcetitle-abbrev>Int. J. Mass Spectrom. Ion Proces.</sourcetitle-abbrev><issn type="print">01681176</issn><codencode>IJMPD</codencode><publicationyear first="1995"/><volisspag>
+<voliss issue="1-2" volume="144"/>
+<pagerange first="87" last="103"/>
+</volisspag></refd-itemcitation></reference><reference><ref-info>
+<refd-itemidlist>
+<itemid idtype="SGR">33750502861</itemid>
+</refd-itemidlist>
+<ref-authors>
+<author seq="1">
+<ce:initials>W.A.</ce:initials>
+<ce:indexed-name>Harris W.A.</ce:indexed-name>
+<ce:surname>Harris</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>P.T.A.</ce:initials>
+<ce:indexed-name>Reilly P.T.A.</ce:indexed-name>
+<ce:surname>Reilly</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>W.B.</ce:initials>
+<ce:indexed-name>Whitten W.B.</ce:indexed-name>
+<ce:surname>Whitten</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Mass Spectrometry</ref-sourcetitle>
+<ref-publicationyear first="2006"/>
+<ref-volisspag>
+<voliss volume="258"/>
+<pagerange first="113"/>
+</ref-volisspag>
+</ref-info><ref-fulltext>Harris W.A., Reilly P.T.A., and Whitten W.B. International Journal of Mass Spectrometry 258 (2006) 113</ref-fulltext><refd-itemcitation type="core"><eid>2-s2.0-33750502861</eid><oeid/><ce:pii>S1387380606003125</ce:pii><ce:doi>10.1016/j.ijms.2006.06.014</ce:doi><itemid idtype="PUI">44666538</itemid><itemid idtype="CHEM">2006171649</itemid><itemid idtype="SCP">33750502861</itemid><itemid idtype="SGR">33750502861</itemid><databases><dbcollection>CHEM</dbcollection><dbcollection>Scopusbase</dbcollection></databases><citation-title>
+<titletext original="y" xml:lang="eng">Aerosol MALDI of peptides and proteins in an ion trap mass spectrometer: Trapping, resolution and signal-to-noise</titletext>
+</citation-title><author-group><author auid="8589783200" seq="1">
+<ce:initials>W.A.</ce:initials>
+<ce:indexed-name>Harris W.A.</ce:indexed-name>
+<ce:surname>Harris</ce:surname>
+<ce:given-name>William A.</ce:given-name>
+<preferred-name>
+<ce:initials>W.A.</ce:initials>
+<ce:indexed-name>Harris W.</ce:indexed-name>
+<ce:surname>Harris</ce:surname>
+<ce:given-name>William A.</ce:given-name>
+</preferred-name>
+</author><author auid="7202796068" seq="2">
+<ce:initials>P.T.A.</ce:initials>
+<ce:indexed-name>Reilly P.T.A.</ce:indexed-name>
+<ce:surname>Reilly</ce:surname>
+<ce:given-name>Peter T.A.</ce:given-name>
+<preferred-name>
+<ce:initials>P.T.A.</ce:initials>
+<ce:indexed-name>Reilly P.</ce:indexed-name>
+<ce:surname>Reilly</ce:surname>
+<ce:given-name>Peter T A</ce:given-name>
+</preferred-name>
+<ce:e-address type="email">reillypt@ornl.gov</ce:e-address>
+</author><author auid="7006324470" seq="3">
+<ce:initials>W.B.</ce:initials>
+<ce:indexed-name>Whitten W.B.</ce:indexed-name>
+<ce:surname>Whitten</ce:surname>
+<ce:given-name>William B.</ce:given-name>
+<preferred-name>
+<ce:initials>W.B.</ce:initials>
+<ce:indexed-name>Whitten W.</ce:indexed-name>
+<ce:surname>Whitten</ce:surname>
+<ce:given-name>William B.</ce:given-name>
+</preferred-name>
+</author><affiliation afid="60024266" country="usa"><organization>Oak Ridge National Laboratory</organization><address-part>PO Box 2008, MS 6142</address-part><city-group>Oak Ridge, TN 37831</city-group><country>United States</country></affiliation></author-group><sourcetitle>International Journal of Mass Spectrometry</sourcetitle><sourcetitle-abbrev>Int. J. Mass Spectrom.</sourcetitle-abbrev><issn type="print">13873806</issn><codencode>IMSPF</codencode><publicationyear first="2006"/><volisspag>
+<voliss issue="1-3" volume="258"/>
+<pagerange first="113" last="119"/>
+</volisspag></refd-itemcitation></reference></bibliography></tail></bibrecord></item></xocs:item></xocs:doc></xoe:enhanced-document>
